@@ -1,3 +1,5 @@
 Manas add the layout image for the web page , its requiredfor designing.
 
 and i wont be online much, so add your requirement here only
+
+can we add other files like png or jpeg to this git repo?
